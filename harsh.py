@@ -5,13 +5,6 @@ Created on Tue Jun  6 20:08:45 2023
 @author: harsh
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  1 20:25:49 2023
-
-@author: manish
-"""
-
 import streamlit as st
 
 page_bg_img = f"""
