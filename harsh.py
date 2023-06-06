@@ -10,7 +10,7 @@ import streamlit as st
 page_bg_img = f"""
 <style>
 [data-testid = "stAppViewContainer"]{{
-    background-image: url("https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGYtczExMy1hay01NzY3LXNzLTAxLnBuZw.png");
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Frani-pink-and-purple-glitter-texture-and-sparkle-abstract-background-gm1146954291-309218616&psig=AOvVaw0S6ADdWZ0RdBET5RL2FxVJ&ust=1686151845084000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDVwqD7rv8CFQAAAAAdAAAAABAR");
     background-size: cover;
     opacity: 0.9;
     }}
