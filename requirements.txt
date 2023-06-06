@@ -1,0 +1,6 @@
+scikit-learn
+streamlit
+pycaret
+pandas_profiling
+ydata_profiling
+streamlit_pandas_profiling
